@@ -14,11 +14,13 @@
     height: 600px;
     margin: 0 auto;
     margin-top: 50px;
+    margin-bottom: 50px;
     background-image:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(../images/Banner\ Image.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 16px; 
+
 
 
 }
@@ -42,4 +44,112 @@
     margin: 0 auto;
     width: 1320px;
     height: 600px;
+
 }
+
+/* discount section start here */
+.discount-container{
+    width: 802.9px;
+    height: 700px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.discount-content{
+    width: 802.9px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: o auto;
+}
+.discount-content h2{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;   
+}
+.discount-content p{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 15px;   
+    margin-bottom: 15px;
+}
+.discount-content h3{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;   
+}
+.discount-content img{
+    width: 802.9px;
+    height: 450px;
+    margin-top: 50px;  
+}
+
+/* discount section end here */
+/* midnight party section start here */
+
+.midnight-party-container{
+    width: 1320px;
+    height: 600px;
+    border: 2px solid red;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-image:linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(../images/Vectorrr.png);
+    border-radius: 16px;
+
+}
+.midnight-party-content{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+}
+.midnight-party-content h2{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 11%;
+    text-align: left;
+}
+.midnight-party-content p{
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.midnight-party-content button{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    margin-right: 500px;
+    margin-top: 30px;
+    background-color: #080311;
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.new-year-img{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* midnight party section start here */
