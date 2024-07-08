@@ -210,6 +210,55 @@
     align-items: center;
 }
 .comming-soon-content{
+    width: 33%;
+    height: 280px;
+}
+.comming-soon-content h5{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
 
+}
+.comming-soon-content h3{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+
+}
+.comming-soon-content p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.coming-soon-img{
+    box-sizing: border-box;
+    border: 15px solid rgb(255, 0, 0);
+    border-radius: 50%;
+
+}
+.coming-soon-img img{
+    width: 364.84px;
+    height: 364.84px;
+}
+.coming-soon-description{
+    width: 30%;
+    height: 170px;
+
+}
+.coming-soon-description h5{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.coming-soon-description p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
 }
 /* coming soon section end here */
