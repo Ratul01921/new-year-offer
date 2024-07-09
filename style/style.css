@@ -266,7 +266,7 @@
 .holiday-sell-container{
     width: 1320px;
     height: 986.07px;
-    border: 2px solid red;
+
     margin: 0 auto ;
     margin-top: 50px;
 }
@@ -274,7 +274,7 @@
     width: 1068px;
     height: 260px;
     margin: 0 auto;
-    border: 2px solid yellow;
+
     text-align: center;
     margin-bottom: 25px;
 }
@@ -308,9 +308,9 @@
     text-align: center;
 }
 .holiday-sell-img{
-    /* width: 100%;
-    /* height: 470px; */ */
-    border: 2px solid green;
+    width: 100%;
+    height: 470px;
+
     display: flex;
     justify-content: space-between;
 
@@ -346,7 +346,6 @@
 .holiday-sell-background{
     /* width: 100%;
     height: 100%; */
-    border: 2px solid rgb(238, 19, 135);
     position: absolute;
 
 }
